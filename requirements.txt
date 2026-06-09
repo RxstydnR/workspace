@@ -1,0 +1,56 @@
+##### Base
+dill
+tqdm
+numpy
+scipy
+seaborn
+pandas
+# polars
+matplotlib
+japanize-matplotlib
+jupyterlab
+Janome
+
+##### Visualization
+plotly
+
+##### Application
+streamlit
+# chainlit
+# reflex
+# fastapi
+# uvicorn
+# pygwalker
+
+##### LLM
+openai
+anthropic
+python-dotenv
+langchain
+langchain-community
+langchain-core
+langchain-openai
+langchain-anthropic
+langchain-google-genai
+langchain-experimental
+langgraph
+tiktoken
+# torch
+# transformers
+
+##### Loader
+# pypdf
+# pymupdf
+# pymupdf4llm
+# openpyxl
+
+##### Graph
+networkx
+
+###### DB
+# faiss-cpu
+# rank-bm25
+
+
+###### Tool
+ruff
