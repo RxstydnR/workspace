@@ -20,7 +20,7 @@ bash python-project-starter.sh
 
 ## 主要コマンド
 
-``bash
+```bash
 uv sync                   # 依存関係のインストール・同期
 ```
 
